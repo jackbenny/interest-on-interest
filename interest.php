@@ -57,9 +57,9 @@ else
            "<html>\n<head><title>Intereset On Interest</title></head>\n<body>" .
            "<h1>Interest On Interest calculator</h1>\n" .
            "<form method=\"GET\" action=\"$_SERVER[PHP_SELF]\">\n" .
-           "Money: <input type=\"text\" name=\"money\"><br />\n" .
-           "Interest: <input type=\"text\" name=\"interest\"><br />\n" .
-           "Years:<input type=\"text\" name=\"years\"><br />\n" .
+           "Money: <input type=\"text\" name=\"money\"/><br />\n" .
+           "Interest: <input type=\"text\" name=\"interest\"/><br />\n" .
+           "Years:<input type=\"text\" name=\"years\"/><br />\n" .
            "<input type=\"submit\" value=\"Calculate\">\n" .
            "</form>\n<br />\n");
     
